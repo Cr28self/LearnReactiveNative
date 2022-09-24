@@ -36,6 +36,7 @@ const App = () => {
             <View>
                 <LearnBtn onPress={onPress}/>
                 {visible && <Box rounded size="large" color="pink"/>}
+                ddd
 
 
             </View>
